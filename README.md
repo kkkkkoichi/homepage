@@ -1,9 +1,9 @@
 # homepage
 
-##環境構築
+## 環境構築
 以下を参照する。
 https://qiita.com/C_HERO/items/318fe65871f8e53e8c80
-###vuetifyのインストール
+### vuetifyのインストール
 https://vuetifyjs.com/ja/getting-started/installation/#vue-cli-306b3088308b30a430f330b930c830fc30eb
 以下のコマンドを実行する。
 ```
