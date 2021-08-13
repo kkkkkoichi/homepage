@@ -1,11 +1,5 @@
 <template>
-  <v-app>
-    <core-app-bar />
-
-    <core-view />
-
-    <core-footer />
-  </v-app>
+    <router-view />
 </template>
 
 <script>
@@ -13,9 +7,6 @@
     name: 'App',
 
     components: {
-      CoreAppBar: () => import('@/components/core/AppBar'),
-      CoreFooter: () => import('@/components/core/Footer'),
-      CoreView: () => import('@/components/core/View'),
     },
   }
 </script>
